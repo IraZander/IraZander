@@ -1,4 +1,4 @@
-- I’m @IraZander
+- I’m @IraZimora
 - I Make Datapacks, Resource packs, and maybe even mods, for minecraft
 - I'm Learning how to do all of these and am pretty good in json already (will learn lua)
 - I'm not seeking out to collaberate on anything at the moment
